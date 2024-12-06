@@ -1,0 +1,12 @@
+.include "macro_print_str.asm"
+.data
+.text
+main:
+	print_string("Please enter a number: ");
+	li a7, 8
+	ecall
+	mv t1, a0
+	li a7, 11
+	mv a0, t1
+	ecall
+	end

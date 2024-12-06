@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Lab/lab7/opcode/opcode.srcs/sources_1/new/practice1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module practice1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Lab/lab7/opcode/opcode.srcs/sim_1/new/practice1_Tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module practice1_Tb

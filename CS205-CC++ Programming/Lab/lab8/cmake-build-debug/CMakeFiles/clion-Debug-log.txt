@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\SUSTech\Year 3 Semester 2\CS205-CC++ Programming\Lab\lab8" -B "D:\SUSTech\Year 3 Semester 2\CS205-CC++ Programming\Lab\lab8\cmake-build-debug"
+-- Found OpenMP_C: -fopenmp (found version "4.5") 
+-- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+-- Found OpenMP: TRUE (found version "4.5")  
+OpenMP found.
+-- Configuring done (1.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/SUSTech/Year 3 Semester 2/CS205-CC++ Programming/Lab/lab8/cmake-build-debug

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Final Project/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-311] analyzing module ImmGenerator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Final Project/ImmGenerator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ImmGenerator
+WARNING: [VRFC 10-2421] module ImmGenerator is previously defined, ignoring this definition [D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Final Project/ImmGenerator.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Assignment4/assignment4.srcs/sim_1/new/Decoder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder_tb

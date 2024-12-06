@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Mar 29 17:53:49 2024
+# Process ID: 18448
+# Current directory: D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Lab/lab6/lab6.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Lab/lab6/lab6.sim/sim_1/behav/xsim/xsim.dir/addb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Lab/lab6/lab6.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/SUSTech/Year 3 Semester 2/CS202-Computer Organization/Lab/lab6/lab6.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/SUSTech/Year -notrace
